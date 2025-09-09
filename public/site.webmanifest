@@ -1,0 +1,26 @@
+{
+  "name": "Plombier Dépannage Paris",
+  "short_name": "Plombier Paris",
+  "description": "Interventions rapides à Paris dans tous les arrondissements. Plomberie, chauffage, électricité et dépannages d'urgence 24/7 par des artisans qualifiés.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://api.faviconkit.com/plombierdepannageparis.fr/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://api.faviconkit.com/plombierdepannageparis.fr/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://api.faviconkit.com/plombierdepannageparis.fr/180",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
